@@ -5,4 +5,4 @@ A website that displays personal art projects of a client. It uses HTML, CSS, Bo
 * A thumbnail grid to preview photos using Bootstrap's grid function.
 * Expandable thumbnails using [Fancy Box](http://fancybox.net/).
 
-This was a personal project to help a friend of mine. It is not a commercial website. To see it in action, please visit [www.libbykimutis.com](http://libbykimutis.com/).
+This was a personal project to help a friend of mine. It is not a commercial website.
